@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "fingerprint_drv.h": "c",
+        "luos.h": "c",
+        "ll_button.h": "c"
+    },
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.armToolchainPath": false
+}

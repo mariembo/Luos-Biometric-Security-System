@@ -1,0 +1,4 @@
+{
+    "board": "Luos adapted Arduino boards:samd:luos_arduino_zero_edbg",
+    "port": "/dev/cu.usbmodem142302"
+}
